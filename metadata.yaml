@@ -1,0 +1,31 @@
+_repo: The-Pigeon--A-Fantasy-in-Three-Acts_2913
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: This 1912 drama, subtitled A Fantasy, is a sharp satire on the hypocrisies
+  of those who set themselves up to help the less fortunate but who are really pursuing
+  selfish agendas. Here Christopher Wellwyn, an artist of limited means, generously
+  shares all that he has with anyone in need of it, alienating his practical daughter,
+  Ann.
+gutenberg_issued: '2004-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcsh 'Philanthropists -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: 'The Pigeon: A Fantasy in Three Acts'
+url: http://www.gutenberg.org/ebooks/2913
