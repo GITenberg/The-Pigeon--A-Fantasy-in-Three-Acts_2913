@@ -1,5 +1,8 @@
 _repo: The-Pigeon--A-Fantasy-in-Three-Acts_2913
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -14,6 +17,8 @@ description: This 1912 drama, subtitled A Fantasy, is a sharp satire on the hypo
   selfish agendas. Here Christopher Wellwyn, an artist of limited means, generously
   shares all that he has with anyone in need of it, alienating his practical daughter,
   Ann.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2913#The-Pigeon--A-Fantasy-in-Three-Acts
 gutenberg_issued: '2004-09-26'
 gutenberg_type: Text
 identifiers:
